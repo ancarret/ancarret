@@ -1,30 +1,51 @@
-# 👋 ¡Hola! Soy Andrés Carretero Jiménez
+<h1 align="center">¡Hola! Soy Andrés Carretero 👋</h1>
 
-🎓 Estudiante de Ingeniería del Software - Universidad Rey Juan Carlos
-🚀 Estudiante del campus 42 Madrid  
-
----
-
-## 🧰 Tecnologías y herramientas
-
-![C](https://img.shields.io/badge/-C-555?style=flat-square&logo=c)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
-![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+<p align="center">
+  Estudiante de Ingeniería del Software | Cadete en <strong>42 Madrid</strong> 🧠  
+  <br>
+  Apasionado por el desarrollo en C, la programación de bajo nivel y los sistemas Unix 🐧
+</p>
 
 ---
 
-## 📚 Proyectos de campus 42
+## 🛠 Tecnologías que uso
 
-- 🔹 [Libft](https://github.com/ancarret/Libft): funciones básicas reimplementadas desde cero.
-- 🔹 [get_next_line](https://github.com/ancarret/get_next_line): lectura segura línea a línea.
-- 🔹 [push_swap](https://github.com/ancarret/push_swap): algoritmo de ordenación con restricciones.
-- 🔹 [pipex](https://github.com/ancarret/pipex): recreación de tuberías de UNIX.
-- 🔹 [so_long](https://github.com/ancarret/so_long): mini juego con gráficos 2D.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Haskell-%235e5086.svg?style=for-the-badge&logo=haskell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-## 📈 Actividad reciente
+## 🚀 Proyectos de 42 Madrid [Lenguaje C, Bash, Unix...]
 
-![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=ancarret&show_icons=true&theme=tokyonight)
+| Proyecto       | Lenguaje | Repositorio | Descripción |
+|---------------|----------|-------------|-------------|
+| **Libft**      | C        | [📂 Ver](https://github.com/ancarret/Libft)         | Implementación desde cero de funciones básicas de la libc. |
+| **ft_printf**  | C        | [📂 Ver](https://github.com/ancarret/ft_printf)     | Reimplementación de la función `printf`. |
+| **get_next_line** | C     | [📂 Ver](https://github.com/ancarret/get_next_line) | Lectura segura de archivos línea a línea. |
+| **pipex**      | C        | [📂 Ver](https://github.com/ancarret/pipex)         | Recreación del sistema de tuberías de Unix. |
+| **push_swap**  | C        | [📂 Ver](https://github.com/ancarret/push_swap)     | Algoritmo de ordenación con operaciones mínimas en dos pilas. |
+| **so_long**    | C        | [📂 Ver](https://github.com/ancarret/so_long)       | Juego en 2D en el que debes escapar de un laberinto. |
+| **Philosophers** | C      | [📂 Ver](https://github.com/ancarret/Philosophers)  | Solución al problema clásico de los filósofos comensales. |
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ancarret&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancarret&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">¡Gracias por visitar mi perfil! 🌟</p>
