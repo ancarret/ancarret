@@ -39,7 +39,21 @@
 
 ## Perfil de 42 Madrid
 
-[![<ancarret>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
+[![<ancarret>'s 42 stats](https://badge.mediaplus.ma/darkblue/<ancarret>)](https://github.com/oakoudad/badge42)
+
+[![<ancarret>'s 42 stats](https://badge.mediaplus.ma/honeytones/<ancarret>)](https://github.com/oakoudad/badge42)
+
+[![<ancarret>'s 42 stats](https://badge.mediaplus.ma/kettlebells/<ancarret>)](https://github.com/oakoudad/badge42)
+
+[![<ancarret>'s 42 stats](https://badge.mediaplus.ma/landscapes/<ancarret>)](https://github.com/oakoudad/badge42)
+
+[![<ancarret>'s 42 stats](https://badge.mediaplus.ma/colorfulwaves/<ancarret>)](https://github.com/oakoudad/badge42)
+
+[![<ancarret>'s 42 stats](https://badge.mediaplus.ma/levi/<ancarret>)](https://github.com/oakoudad/badge42)
+
+[![<ancarret>'s 42 stats](https://badge.mediaplus.ma/greenbinary/<ancarret>)](https://github.com/oakoudad/badge42)
+
+[![<ancarret>'s 42 stats](https://badge.mediaplus.ma/black/<ancarret>)](https://github.com/oakoudad/badge42)
 
 ## 📊 Estadísticas de GitHub
 
