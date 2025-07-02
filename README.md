@@ -37,6 +37,10 @@
 
 ---
 
+## Perfil de 42 Madrid
+
+[![<ancarret>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
+
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
