@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Andrés Carretero 👋</h1>
+<h1 align="center">¡Hola! Soy Andrés Carretero Jiménez 👋</h1>
 
 <p align="center">
   Estudiante de Ingeniería del Software 👨‍🎓 | Estudiante en <strong>42 Madrid</strong>  🖥️
