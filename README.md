@@ -1,9 +1,8 @@
 <h1 align="center">¡Hola! Soy Andrés Carretero 👋</h1>
 
 <p align="center">
-  Estudiante de Ingeniería del Software | Cadete en <strong>42 Madrid</strong> 🧠  
+  Estudiante de Ingeniería del Software 👨‍🎓 | Estudiante en <strong>42 Madrid</strong>  🖥️
   <br>
-  Apasionado por el desarrollo en C, la programación de bajo nivel y los sistemas Unix 🐧
 </p>
 
 ---
@@ -24,16 +23,16 @@
 
 ---
 
-## 🚀 Proyectos de 42 Madrid [Lenguaje C, Bash, Unix...]
+## 🚀 Proyectos de 42 Madrid
 
 | Proyecto       | Lenguaje | Repositorio | Descripción |
 |---------------|----------|-------------|-------------|
-| **Libft**      | C        | [📂 Ver](https://github.com/ancarret/Libft)         | Implementación desde cero de funciones básicas de la libc. |
+| **Libft**      | C        | [📂 Ver](https://github.com/ancarret/Libft)         | Implementación desde cero de funciones básicas. |
 | **ft_printf**  | C        | [📂 Ver](https://github.com/ancarret/ft_printf)     | Reimplementación de la función `printf`. |
 | **get_next_line** | C     | [📂 Ver](https://github.com/ancarret/get_next_line) | Lectura segura de archivos línea a línea. |
 | **pipex**      | C        | [📂 Ver](https://github.com/ancarret/pipex)         | Recreación del sistema de tuberías de Unix. |
-| **push_swap**  | C        | [📂 Ver](https://github.com/ancarret/push_swap)     | Algoritmo de ordenación con operaciones mínimas en dos pilas. |
-| **so_long**    | C        | [📂 Ver](https://github.com/ancarret/so_long)       | Juego en 2D en el que debes escapar de un laberinto. |
+| **push_swap**  | C        | [📂 Ver](https://github.com/ancarret/push_swap)     | Algoritmo de ordenación con movimientos limitados. |
+| **so_long**    | C        | [📂 Ver](https://github.com/ancarret/so_long)       | Juego en 2D básico. |
 | **Philosophers** | C      | [📂 Ver](https://github.com/ancarret/Philosophers)  | Solución al problema clásico de los filósofos comensales. |
 
 ---
