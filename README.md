@@ -45,10 +45,28 @@ I enjoy understanding how systems work behind the scenes and building software I
 <br>
 
 <!-- ===================================================== -->
-<!--                   FEATURED PROJECT                    -->
+<!--                  FEATURED PROJECTS                    -->
 <!-- ===================================================== -->
 
-## 🎸 Featured project
+## 🚀 Featured projects
+
+### [Chronobeat](https://github.com/ancarret/chronobeat) — a chronological music game, solo or online
+
+<a href="https://github.com/ancarret/chronobeat">
+  <img src="https://raw.githubusercontent.com/ancarret/chronobeat/main/docs/media/demo.gif" width="100%" alt="Chronobeat demo">
+</a>
+
+A mystery song plays — no title, no artist, no year — and you place it on your timeline before the
+reveal. The server never sends the answer before you commit (it isn't just hidden in the UI), and
+online rooms keep every player's phone in sync live through Server-Sent Events, playing from a
+catalog of thousands of real songs instead of a deck you end up memorising.
+
+**Java 21 · Spring Boot 4.1 · Angular 21 · PostgreSQL · Docker** — tested (90 backend, 92 frontend
+tests, including Testcontainers and a live SSE flow), deployed and live.
+
+**[🔗 Live demo](https://chronobeat.pages.dev)** · **[📂 Source](https://github.com/ancarret/chronobeat)**
+
+<br>
 
 ### [FretLab](https://github.com/ancarret/fretlab) — interactive guitar theory learning platform
 
